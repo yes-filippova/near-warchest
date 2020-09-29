@@ -31,6 +31,6 @@ https://medium.com/@khongwooilee/how-to-update-the-go-version-6065f5c8c3ec
 
     go warchest.go
 
-    ./warchest -accountId <YOUR_POOL_ID> -delegatorId <YOUR_DELEGATOR_ID>
+    ./warchest -accountId <POOL_ID> -delegatorId <DELEGATOR_ID>
 
 
